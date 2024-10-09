@@ -1,1 +1,2 @@
-# LenguajesPractica2
+Samuel Calderon Duque & Matias Monsalve Ruiz
+
